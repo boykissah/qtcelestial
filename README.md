@@ -22,7 +22,7 @@ To install QtCelestial, follow these steps:
 
 Install the required dependencies:
   pip install PyQt6 PyQt6-WebEngine
-Usage
+## Usage
 
 To use QtCelestial, follow these steps:
 
