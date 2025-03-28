@@ -33,7 +33,7 @@ Features
     Feature 2: A Broken Download Manager (ill fix that dont worry)
     Feature 3: Does Not Collect Cookies.
 
-Contributing
+## Contributing
 
 We welcome contributions! Please follow these guidelines:
 
