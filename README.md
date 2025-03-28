@@ -2,7 +2,7 @@
 
 QtCelestial is a project aimed at making a browser capable of being used as a daily browser.
 
-##  (broken) Table of Contents
+##  Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
